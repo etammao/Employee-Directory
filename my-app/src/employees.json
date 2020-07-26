@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Eddi",
+    "location": "Toronto",
+    "pet": "Hamster"
+  },
+  {
+    "id": 2,
+    "name": "Christine",
+    "location": "Montreal",
+    "pet": "Parrot"
+  },
+  {
+    "id": 3,
+    "name": "Damon",
+    "location": "Toronto",
+    "pet": "Dog"
+  },
+  {
+    "id": 4,
+    "name": "Daniel",
+    "location": "Toronto",
+    "pet": "Dog"
+  }  
+]

@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "name": "Eddi",
+    "name": "Frank Gallagher",
     "location": "Toronto",
     "pet": "Hamster"
   },
   {
     "id": 2,
-    "name": "Christine",
+    "name": "Carl Gallagher",
     "location": "Montreal",
     "pet": "Parrot"
   },
   {
     "id": 3,
-    "name": "Damon",
-    "location": "Toronto",
+    "name": "Lip Gallagher",
+    "location": "Chicago",
     "pet": "Dog"
   },
   {
     "id": 4,
-    "name": "Daniel",
-    "location": "Toronto",
-    "pet": "Dog"
-  }  
+    "name": "Ian Gallagher",
+    "location": "London",
+    "pet": "Cat"
+  }
 ]

@@ -26,7 +26,7 @@ function App() {
   function updateOrder(order) {
     const newOrderForList = tableManager.list.sort(function (a, b) {
       return a[order] > b[order] ? 1 : -1;
-      console.log("OOOOOOOOORRRRRRRRRDDDDDDDERRRRR:", order);
+      // console.log("OOOOOOOOORRRRRRRRRDDDDDDDERRRRR:", order);
       // a[order]=a[id]=1 b[order]=b[id]=2
       // sort function:
       // if return 1 then switch the position of the two Elements
